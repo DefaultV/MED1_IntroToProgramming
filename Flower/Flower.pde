@@ -1,6 +1,7 @@
 int r=60;
 float ballX;
 float ballY;
+float testvariable;
 
 void setup() {
   size(600,400);
